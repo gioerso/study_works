@@ -1,0 +1,6 @@
+D:\Lab1\Lab16_ISRPO\QuadraticSolver\bin\Debug\QuadraticSolver.dll
+D:\Lab1\Lab16_ISRPO\QuadraticSolver\bin\Debug\QuadraticSolver.pdb
+D:\Lab1\Lab16_ISRPO\QuadraticSolver\obj\Debug\QuadraticSolver.csproj.AssemblyReference.cache
+D:\Lab1\Lab16_ISRPO\QuadraticSolver\obj\Debug\QuadraticSolver.csproj.CoreCompileInputs.cache
+D:\Lab1\Lab16_ISRPO\QuadraticSolver\obj\Debug\QuadraticSolver.dll
+D:\Lab1\Lab16_ISRPO\QuadraticSolver\obj\Debug\QuadraticSolver.pdb

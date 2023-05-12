@@ -1,0 +1,25 @@
+﻿<Window x:Class="LabPyataya.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LabPyataya"
+        mc:Ignorable="d"
+        Title="Wending Machine" Height="334" Width="481.5">
+
+    <Grid Margin="0,0,2,1">
+        <RadioButton x:Name="AmericanoradioButton" Content="Американо" HorizontalAlignment="Left" Margin="45,74,0,0" VerticalAlignment="Top" Checked="AmericanoradioButton_Checked"/>
+        <RadioButton x:Name="CapucchinoradioButton" Content="Капучино" HorizontalAlignment="Left" Margin="152,74,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.012,0.6" Checked="CapucchinoradioButton_Checked"/>
+        <RadioButton x:Name="EspressoradioButton" Content="Эспрессо" HorizontalAlignment="Left" Margin="45,94,0,0" VerticalAlignment="Top" Checked="EspressoradioButton_Checked"/>
+        <RadioButton x:Name="CacaoradioButton" Content="Какао" HorizontalAlignment="Left" Margin="152,94,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.012,0.6" Checked="CacaoradioButton_Checked"/>
+        <Button x:Name="OkButton" Content="ОК" HorizontalAlignment="Left" Margin="93,182,0,0" VerticalAlignment="Top" Width="99" Height="49" IsEnabled="False" Click="Button_Click_1"/>
+        <TextBox x:Name="PayTextBox" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="25,262,0,0" RenderTransformOrigin="0.883,-0.565" IsEnabled="False"/>
+        <Button x:Name="PayButton" Content="Внести" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="162,262,0,0" Height="23" Click="PayButton_Click" IsEnabled="False"/>
+        <CheckBox x:Name="MilkCheckBox" Content="Молоко" HorizontalAlignment="Left" Margin="45,126,0,0" VerticalAlignment="Top" Width="85"/>
+        <CheckBox x:Name="SugarCheckBox" Content="Сахар" HorizontalAlignment="Left" Margin="152,126,0,0" VerticalAlignment="Top" Width="85"/>
+        <Label x:Name="LabelWendingMachine" Content="Выберите напиток, настройки &#xD;&#xA;и подтвердите выбор." HorizontalAlignment="Left" Margin="25,10,0,0" VerticalAlignment="Top" Height="48" Width="241"/>
+        <Image x:Name="DrinkImage" HorizontalAlignment="Left" Height="100" Margin="310,41,0,0" VerticalAlignment="Top" Width="124" RenderTransformOrigin="0.17,-0.05"/>
+        <!-- Add button to window -->
+    </Grid>
+
+</Window>

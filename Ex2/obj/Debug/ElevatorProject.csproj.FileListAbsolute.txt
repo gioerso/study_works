@@ -1,0 +1,40 @@
+D:\CodeProjects\WPF\Lab5\Ex2\bin\Debug\Ex2.exe.config
+D:\CodeProjects\WPF\Lab5\Ex2\bin\Debug\Ex2.exe
+D:\CodeProjects\WPF\Lab5\Ex2\bin\Debug\Ex2.pdb
+D:\CodeProjects\WPF\Lab5\Ex2\obj\Debug\ElevatorProject.csproj.AssemblyReference.cache
+D:\CodeProjects\WPF\Lab5\Ex2\obj\Debug\ElevatorProject.csproj.SuggestedBindingRedirects.cache
+D:\CodeProjects\WPF\Lab5\Ex2\obj\Debug\MainWindow.g.cs
+D:\CodeProjects\WPF\Lab5\Ex2\obj\Debug\Pages\ElevatorPage.g.cs
+D:\CodeProjects\WPF\Lab5\Ex2\obj\Debug\Pages\SetFloorsPage.g.cs
+D:\CodeProjects\WPF\Lab5\Ex2\obj\Debug\App.g.cs
+D:\CodeProjects\WPF\Lab5\Ex2\obj\Debug\Ex2_MarkupCompile.cache
+D:\CodeProjects\WPF\Lab5\Ex2\obj\Debug\Ex2_MarkupCompile.lref
+D:\CodeProjects\WPF\Lab5\Ex2\obj\Debug\MainWindow.baml
+D:\CodeProjects\WPF\Lab5\Ex2\obj\Debug\Pages\ElevatorPage.baml
+D:\CodeProjects\WPF\Lab5\Ex2\obj\Debug\Pages\SetFloorsPage.baml
+D:\CodeProjects\WPF\Lab5\Ex2\obj\Debug\Ex2.g.resources
+D:\CodeProjects\WPF\Lab5\Ex2\obj\Debug\Ex2.Properties.Resources.resources
+D:\CodeProjects\WPF\Lab5\Ex2\obj\Debug\ElevatorProject.csproj.GenerateResource.cache
+D:\CodeProjects\WPF\Lab5\Ex2\obj\Debug\ElevatorProject.csproj.CoreCompileInputs.cache
+D:\CodeProjects\WPF\Lab5\Ex2\obj\Debug\Ex2.exe
+D:\CodeProjects\WPF\Lab5\Ex2\obj\Debug\Ex2.pdb
+C:\Users\Billy Herrington\Desktop\Учёба\МДК0202_ИСРПО\archive\Ex2\bin\Debug\Ex2.exe.config
+C:\Users\Billy Herrington\Desktop\Учёба\МДК0202_ИСРПО\archive\Ex2\bin\Debug\Ex2.exe
+C:\Users\Billy Herrington\Desktop\Учёба\МДК0202_ИСРПО\archive\Ex2\bin\Debug\Ex2.pdb
+C:\Users\Billy Herrington\Desktop\Учёба\МДК0202_ИСРПО\archive\Ex2\obj\Debug\ElevatorProject.csproj.AssemblyReference.cache
+C:\Users\Billy Herrington\Desktop\Учёба\МДК0202_ИСРПО\archive\Ex2\obj\Debug\ElevatorProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Billy Herrington\Desktop\Учёба\МДК0202_ИСРПО\archive\Ex2\obj\Debug\MainWindow.g.cs
+C:\Users\Billy Herrington\Desktop\Учёба\МДК0202_ИСРПО\archive\Ex2\obj\Debug\Pages\ElevatorPage.g.cs
+C:\Users\Billy Herrington\Desktop\Учёба\МДК0202_ИСРПО\archive\Ex2\obj\Debug\Pages\SetFloorsPage.g.cs
+C:\Users\Billy Herrington\Desktop\Учёба\МДК0202_ИСРПО\archive\Ex2\obj\Debug\App.g.cs
+C:\Users\Billy Herrington\Desktop\Учёба\МДК0202_ИСРПО\archive\Ex2\obj\Debug\Ex2_MarkupCompile.cache
+C:\Users\Billy Herrington\Desktop\Учёба\МДК0202_ИСРПО\archive\Ex2\obj\Debug\Ex2_MarkupCompile.lref
+C:\Users\Billy Herrington\Desktop\Учёба\МДК0202_ИСРПО\archive\Ex2\obj\Debug\MainWindow.baml
+C:\Users\Billy Herrington\Desktop\Учёба\МДК0202_ИСРПО\archive\Ex2\obj\Debug\Pages\ElevatorPage.baml
+C:\Users\Billy Herrington\Desktop\Учёба\МДК0202_ИСРПО\archive\Ex2\obj\Debug\Pages\SetFloorsPage.baml
+C:\Users\Billy Herrington\Desktop\Учёба\МДК0202_ИСРПО\archive\Ex2\obj\Debug\Ex2.g.resources
+C:\Users\Billy Herrington\Desktop\Учёба\МДК0202_ИСРПО\archive\Ex2\obj\Debug\Ex2.Properties.Resources.resources
+C:\Users\Billy Herrington\Desktop\Учёба\МДК0202_ИСРПО\archive\Ex2\obj\Debug\ElevatorProject.csproj.GenerateResource.cache
+C:\Users\Billy Herrington\Desktop\Учёба\МДК0202_ИСРПО\archive\Ex2\obj\Debug\ElevatorProject.csproj.CoreCompileInputs.cache
+C:\Users\Billy Herrington\Desktop\Учёба\МДК0202_ИСРПО\archive\Ex2\obj\Debug\Ex2.exe
+C:\Users\Billy Herrington\Desktop\Учёба\МДК0202_ИСРПО\archive\Ex2\obj\Debug\Ex2.pdb

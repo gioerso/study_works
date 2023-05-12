@@ -1,0 +1,44 @@
+﻿<Window x:Class="Lab14_ISRPO.RSSReader"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab14_ISRPO"
+        mc:Ignorable="d"
+        Title="{Binding Path=Title.Text}" Height="500" Width="550">
+    <Grid>
+        <DockPanel x:Name="feedContent">
+            <Grid  DockPanel.Dock="Top">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="50" />
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="140" />
+                </Grid.ColumnDefinitions>
+                <Label Grid.Column="0" Margin="5">URL:</Label>
+                <TextBox Grid.Column="1" x:Name="textUrl" MinWidth="150" Margin="5,5,37,5"/>
+                <Button Grid.Column="1" Margin="329,5,70,5" MinWidth="80"
+                    Click="OnGetFeed" Grid.ColumnSpan="2">Получить канал</Button>
+                <Button Content="Выход" Grid.Column="2" Margin="80,5,10,5" Click="Exit_Click"/>
+            </Grid>
+            <StackPanel Orientation="Vertical" DockPanel.Dock="Top" Background="LightGreen" x:Name="heading">
+                <Label Content="{Binding Path=Title.Text}" FontSize="16" />
+                <Label Content="{Binding Path=Description.Text}" />
+            </StackPanel>
+            <ListBox MinWidth="120"  DockPanel.Dock="Left" ItemsSource="{Binding}"
+                 IsSynchronizedWithCurrentItem="True" HorizontalContentAlignment="Stretch">
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <Border Background="#555">
+                            <Label Content="{Binding Title.Text}" Foreground="#DDD" />
+                        </Border>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+            <DockPanel x:Name="content">
+                <Label DockPanel.Dock="Top" Content="{Binding Description.Text}" />
+                <Frame Source="{Binding Path=Links[0].Uri}" />
+            </DockPanel>
+
+        </DockPanel>
+    </Grid>
+</Window>

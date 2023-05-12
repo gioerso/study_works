@@ -1,0 +1,16 @@
+C:\Users\Billy Herrington\Desktop\Учёба\МДК0202_ИСРПО\lab5_b\bin\Debug\lab5_b.exe.config
+C:\Users\Billy Herrington\Desktop\Учёба\МДК0202_ИСРПО\lab5_b\bin\Debug\lab5_b.exe
+C:\Users\Billy Herrington\Desktop\Учёба\МДК0202_ИСРПО\lab5_b\bin\Debug\lab5_b.pdb
+C:\Users\Billy Herrington\Desktop\Учёба\МДК0202_ИСРПО\lab5_b\obj\Debug\lab5_b.csproj.AssemblyReference.cache
+C:\Users\Billy Herrington\Desktop\Учёба\МДК0202_ИСРПО\lab5_b\obj\Debug\lab5_b.csproj.SuggestedBindingRedirects.cache
+C:\Users\Billy Herrington\Desktop\Учёба\МДК0202_ИСРПО\lab5_b\obj\Debug\MainWindow.g.cs
+C:\Users\Billy Herrington\Desktop\Учёба\МДК0202_ИСРПО\lab5_b\obj\Debug\App.g.cs
+C:\Users\Billy Herrington\Desktop\Учёба\МДК0202_ИСРПО\lab5_b\obj\Debug\lab5_b_MarkupCompile.cache
+C:\Users\Billy Herrington\Desktop\Учёба\МДК0202_ИСРПО\lab5_b\obj\Debug\lab5_b_MarkupCompile.lref
+C:\Users\Billy Herrington\Desktop\Учёба\МДК0202_ИСРПО\lab5_b\obj\Debug\MainWindow.baml
+C:\Users\Billy Herrington\Desktop\Учёба\МДК0202_ИСРПО\lab5_b\obj\Debug\lab5_b.g.resources
+C:\Users\Billy Herrington\Desktop\Учёба\МДК0202_ИСРПО\lab5_b\obj\Debug\lab5_b.Properties.Resources.resources
+C:\Users\Billy Herrington\Desktop\Учёба\МДК0202_ИСРПО\lab5_b\obj\Debug\lab5_b.csproj.GenerateResource.cache
+C:\Users\Billy Herrington\Desktop\Учёба\МДК0202_ИСРПО\lab5_b\obj\Debug\lab5_b.csproj.CoreCompileInputs.cache
+C:\Users\Billy Herrington\Desktop\Учёба\МДК0202_ИСРПО\lab5_b\obj\Debug\lab5_b.exe
+C:\Users\Billy Herrington\Desktop\Учёба\МДК0202_ИСРПО\lab5_b\obj\Debug\lab5_b.pdb

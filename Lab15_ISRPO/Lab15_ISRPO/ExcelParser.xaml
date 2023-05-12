@@ -1,0 +1,15 @@
+﻿<Window x:Class="Lab15_ISRPO.ExcelParser"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab15_ISRPO"
+        mc:Ignorable="d"
+        Title="ExcelParser" Height="450" Width="800">
+    <Grid>
+        <Button Content="Загрузить xlsx" HorizontalAlignment="Left" Margin="341,10,0,0" VerticalAlignment="Top" Name="LoadExcel" Width="87" Click="LoadExcel_Click"/>
+        <Button Content="Сохранить xlsx" HorizontalAlignment="Left" Margin="341,35,0,0" VerticalAlignment="Top" x:Name="SaveExcel" Width="87" Click="SaveExcel_Click"/>
+        <DataGrid x:Name="grid1" Margin="10,60,10,10" ItemsSource="{Binding}" 
+          AutoGenerateColumns="True"></DataGrid>
+    </Grid>
+</Window>

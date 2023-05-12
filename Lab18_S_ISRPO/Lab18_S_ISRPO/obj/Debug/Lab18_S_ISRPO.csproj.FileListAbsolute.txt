@@ -1,0 +1,8 @@
+D:\Lab1\Lab18_S_ISRPO\Lab18_S_ISRPO\bin\Debug\Lab18_S_ISRPO.exe.config
+D:\Lab1\Lab18_S_ISRPO\Lab18_S_ISRPO\bin\Debug\Lab18_S_ISRPO.exe
+D:\Lab1\Lab18_S_ISRPO\Lab18_S_ISRPO\bin\Debug\Lab18_S_ISRPO.pdb
+D:\Lab1\Lab18_S_ISRPO\Lab18_S_ISRPO\obj\Debug\Lab18_S_ISRPO.csproj.AssemblyReference.cache
+D:\Lab1\Lab18_S_ISRPO\Lab18_S_ISRPO\obj\Debug\Lab18_S_ISRPO.csproj.SuggestedBindingRedirects.cache
+D:\Lab1\Lab18_S_ISRPO\Lab18_S_ISRPO\obj\Debug\Lab18_S_ISRPO.csproj.CoreCompileInputs.cache
+D:\Lab1\Lab18_S_ISRPO\Lab18_S_ISRPO\obj\Debug\Lab18_S_ISRPO.exe
+D:\Lab1\Lab18_S_ISRPO\Lab18_S_ISRPO\obj\Debug\Lab18_S_ISRPO.pdb
